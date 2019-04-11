@@ -9,7 +9,7 @@ Repositório responsável pela demo relacionada ao evento **[Azure Bootcamp Camp
 - **[Vs Code](https://aka.ms/AA4uk0n)**
 - **[Node.js](https://nodejs.org/en/)**
 - **[Azure App Service](https://aka.ms/AA4ucc8)**
-- **[VueJs](https://vuejs.org/)**
+- **[Vue.Js](https://vuejs.org/)**
 - **[MongoDb Community Server](https://www.mongodb.com/download-center/community)**
 - **[MongoDb Compass GUI](https://www.mongodb.com/download-center/compass)**
 - **[Cadastro Site Azure](https://aka.ms/AA4uk0o)**
