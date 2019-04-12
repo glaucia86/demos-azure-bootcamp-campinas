@@ -28,11 +28,13 @@ Repositório responsável pela demo relacionada ao evento **[Azure Bootcamp Camp
 > npm run dev
 ```
 
-Depois bastam abrir o browser em: **localhost:8000**
+Depois bastam abrir o browser em: **localhost:8080**
 
 ## Demo da Aplicação (Online) ⭐️
 
 Caso desejam visualizar a demo em produção, com a integração com Azure & CosmosDb, bastam acessar o link **[AQUI](https://teste-todo-workshop.azurewebsites.net/)**.
+
+p.s.: por enquanto a demo está indisponível.
 
 ## Quero aprender o Passo a Passo! Como faço?!
 
