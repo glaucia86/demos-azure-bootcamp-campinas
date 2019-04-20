@@ -1,16 +1,53 @@
-# Demos: Azure Bootcamp Campinas - Palestra: Criando API's Escaláveis com Node.js & Serverless
+# Demos: Azure Bootcamp Campinas 2019 - Palestra: Hospede um Site Estático no Azure em menos 10 minutos!
 
+[![bit-octocat.png](https://i.postimg.cc/LX6SNKBH/bit-octocat.png)](https://postimg.cc/kVZLgHpZ)
 
-Repositório 
+Repositório responsável pela demo relacionada ao evento **[Azure Bootcamp Campinas 2019](https://www.sympla.com.br/global-azure-bootcamp-2019--venturus__458284)**
 
 ## Recursos Utilizados
 
-dsdsadsadsa
+- **[Vs Code](https://aka.ms/AA4uk0n)**
+- **[Node.js](https://nodejs.org/en/)**
+- **[Azure App Service](https://aka.ms/AA4ucc8)**
+- **[VueJs](https://vuejs.org/)**
+- **[MongoDb Community Server](https://www.mongodb.com/download-center/community)**
+- **[MongoDb Compass GUI](https://www.mongodb.com/download-center/compass)**
+- **[Cadastro Site Azure](https://aka.ms/AA4uk0o)**
+- **[AngularJs](https://angularjs.org/)**
 
-## Recursos Adicionais
 
-dsdasdsadsad
+## Executando a Aplicação Localmente 🔥
 
-## Tenho Dúvidas
+1) Instalar os pacotes com o comando:
 
-dasdsadsadsa
+```
+> npm install
+```
+
+```
+> npm run dev
+```
+
+Depois bastam abrir o browser em: **localhost:8000**
+
+## Demo da Aplicação (Online) ⭐️
+
+Caso desejam visualizar a demo em produção, com a integração com Azure & CosmosDb, bastam acessar o link **[AQUI](https://teste-todo-workshop.azurewebsites.net/)**.
+
+## Quero aprender o Passo a Passo! Como faço?!
+
+Simples! Basta acessar o acervo criado em **[AQUI](/passo-a-passo/02-hospedagem-webapp-azure.md)** para acompanhar todos os scripts criados e o laboratório do código em questão e aprender a migrar sua base local para o CosmosDb e como hospedar a sua aplicação no Azure!
+
+## Dúvidas?! ❓
+
+Se tiverem alguma dúvida referente ao código desenvolvido ou para configurar o ambiente bastam criar uma **[ISSUE](https://github.com/glaucia86/demos-azure-bootcamp-campinas/issues)** no GitHub que estarei respondendo a vocês!! :heart: :heart: :heart: :blush:
+
+## Links e Recursos Adicionais ⭐️
+
+- **[Depurando Angular App no Vs Code](http://bit.ly/depurar-app-angular-vscode)**
+- **[Usando Vue.js App no Vs Code](http://bit.ly/vscode-vue-depurar)**
+- **[Usando React.js App no Vs Code](http://bit.ly/depurar-app-react-vscode)**
+- **[Tutorial Hospedar Aplicativo Web Azure](http://bit.ly/tutorial-criar-site-estatico-azure)**
+- **[Deploy Site Estático Azure](http://bit.ly/deploy-site-estatico-azure)**
+- **[Free Trial Azure](http://bit.ly/2HRaKyg)**
+
