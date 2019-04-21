@@ -34,7 +34,7 @@ Depois bastam abrir o browser em: **localhost:8080**
 
 Caso desejam visualizar a demo em produção, com a integração com Azure & CosmosDb, bastam acessar o link **[AQUI](https://teste-todo-workshop.azurewebsites.net/)**.
 
-p.s.: por enquanto a demo está indisponível.
+**p.s.: por enquanto a demo está indisponível.**
 
 ## Quero aprender o Passo a Passo! Como faço?!
 
@@ -46,7 +46,7 @@ Se tiverem alguma dúvida referente ao código desenvolvido ou para configurar o
 
 ## Links e Recursos Adicionais ⭐️
 
-- **[Depurando Angular App no Vs Code](http://bit.ly/depurar-app-angular-vscode)**
+- **[Depurando Angular App no Vs Code](https://aka.ms/AA4wuap)**
 - **[Usando Vue.js App no Vs Code](http://bit.ly/vscode-vue-depurar)**
 - **[Usando React.js App no Vs Code](http://bit.ly/depurar-app-react-vscode)**
 - **[Tutorial Hospedar Aplicativo Web Azure](http://bit.ly/tutorial-criar-site-estatico-azure)**
