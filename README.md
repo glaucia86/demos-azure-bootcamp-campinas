@@ -47,7 +47,7 @@ Se tiverem alguma dúvida referente ao código desenvolvido ou para configurar o
 ## Links e Recursos Adicionais ⭐️
 
 - **[Depurando Angular App no Vs Code](https://aka.ms/AA4wuap)**
-- **[Usando Vue.js App no Vs Code](http://bit.ly/vscode-vue-depurar)**
+- **[Usando Vue.js App no Vs Code](https://aka.ms/AA4wmlx)**
 - **[Usando React.js App no Vs Code](http://bit.ly/depurar-app-react-vscode)**
 - **[Tutorial Hospedar Aplicativo Web Azure](http://bit.ly/tutorial-criar-site-estatico-azure)**
 - **[Deploy Site Estático Azure](http://bit.ly/deploy-site-estatico-azure)**
