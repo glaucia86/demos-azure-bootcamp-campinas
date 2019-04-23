@@ -48,8 +48,7 @@ Se tiverem alguma dúvida referente ao código desenvolvido ou para configurar o
 
 - **[Depurando Angular App no Vs Code](https://aka.ms/AA4wuap)**
 - **[Usando Vue.js App no Vs Code](https://aka.ms/AA4wmlx)**
-- **[Usando React.js App no Vs Code](http://bit.ly/depurar-app-react-vscode)**
-- **[Tutorial Hospedar Aplicativo Web Azure](http://bit.ly/tutorial-criar-site-estatico-azure)**
-- **[Deploy Site Estático Azure](http://bit.ly/deploy-site-estatico-azure)**
-- **[Free Trial Azure](http://bit.ly/2HRaKyg)**
+- **[Tutorial Hospedar Aplicativo Web Azure](https://aka.ms/AA4wuax)**
+- **[Deploy Site Estático Azure](https://aka.ms/AA4wuay)**
+- **[Free Trial Azure](https://aka.ms/AA4wmlz)**
 
